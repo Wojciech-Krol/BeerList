@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beer List</string>
+    <string name="textview">TextView</string>
+    <string name="homeImageToolbar">homeImageToolbar</string>
+    <string name="favourites_button">favouritesButtonToolbar</string>
+    <string name="beer_details">Beer Details</string>
+    <string name="favourites">Favourites</string>
+</resources>
